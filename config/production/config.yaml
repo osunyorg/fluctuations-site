@@ -2,6 +2,11 @@
 
 baseURL: https://site.fluctuations.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: d727b763-6f35-42ae-bd29-a088ba43a3ef
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
